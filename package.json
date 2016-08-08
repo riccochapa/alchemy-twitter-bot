@@ -1,0 +1,20 @@
+{
+  "name": "twatson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "appTwo-reply.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon two-listen.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^2.3.1",
+    "twitter": "^1.3.0",
+    "watson-developer-cloud": "^1.12.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  }
+}
